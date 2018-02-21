@@ -1,0 +1,15 @@
+﻿/*
+	Author: Ender İMEN;
+	Date : 21.02.2018;
+*/
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-color: #ffee58;	
+	font-family: 'Amatic SC', cursive;
+	font-size: 32px;
+}
